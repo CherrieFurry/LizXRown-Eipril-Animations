@@ -1,0 +1,47 @@
+html, body {
+                height: 100%;
+            }
+
+            body {
+                margin: 0;
+                padding: 0;
+                width: 100%;
+                color: black;
+                background-color: white;
+                display: table;
+                font-weight: 100;
+                font-family: Georgia, serif;
+            }
+
+            .container {
+                align-content: center;
+                text-align: center;
+                display: table-cell;
+                vertical-align: middle;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .content {
+                align-content: center;
+                text-align: center;
+                display: inline-block;
+                vertical-align: middle;
+                align-items: center;
+                justify-content: center;
+            }
+
+            iframe {
+                align-content: center;
+                text-align: center;
+                align-items: center;
+            }
+
+            p {
+                text-align: center;
+                font-size:55px;
+            }
+
+            a {
+                text-align: center;
+            }
